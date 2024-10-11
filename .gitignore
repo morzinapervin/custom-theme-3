@@ -15,7 +15,7 @@
 /themes/*
 
 # DO NOT ignore these themes...
-!/themes/theme-1
+!/themes/custom-theme-3
 
 #---------------------------
 # WordPress plugins
